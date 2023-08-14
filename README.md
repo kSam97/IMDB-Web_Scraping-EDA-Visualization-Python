@@ -22,7 +22,7 @@ IMDb_link: https://www.imdb.com/list/ls050782187/?sort=list_order,asc&st_dt=&mod
 Putting all the information in a CSV file
 
 
-## Project Outline For Part 1:
+## Project Outline For Part 2:
 
 - Import the scraped CSV file. 
 - Data cleaning and Transformation.
